@@ -1,12 +1,20 @@
+# 本地真实配置（含密钥、QQ号、token）
+config.json
+whitelist.json
+group_configs.json
+affinity.json
+tokens.json
+user_memory.json
 .env
-.venv/
-__pycache__/
-*.pyc
-user_memories.json
-.dashboard_auth
-*.auth
-*.json.tmp
+# 运行产物
 *.log
-.DS_Store
-.dashboard_sessions.json
-web_ui/node_modules/
+*.tmp
+__pycache__/
+# QQ 客户端副本（725MB）与登录态
+QQn/
+qqdata/
+# 表情包大图
+meme-pack/**/*.jpg
+meme-pack/**/*.png
+meme-pack/**/*.gif
+meme-pack/**/*.webp

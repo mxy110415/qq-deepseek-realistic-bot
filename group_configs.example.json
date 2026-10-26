@@ -1,0 +1,40 @@
+{
+  "_说明": "按群号配置；没写的群用全局默认",
+  "1071994647": {
+    "interject_prob": 0.08,
+    "enable_interject": true,
+    "enable_sleep": true,
+    "quiet_hours": [
+      2,
+      7
+    ],
+    "enable_poke": true,
+    "enable_meme": true,
+    "meme_prob": 0.1
+  },
+  "1002347079": {
+    "interject_prob": 0.08,
+    "enable_interject": true,
+    "enable_sleep": true,
+    "quiet_hours": [
+      2,
+      7
+    ],
+    "enable_poke": true,
+    "enable_meme": true,
+    "meme_prob": 0.1
+  },
+  "123456789": {
+    "interject_prob": 0.08,
+    "enable_interject": true,
+    "enable_sleep": true,
+    "quiet_hours": [
+      2,
+      7
+    ],
+    "enable_poke": true,
+    "enable_meme": true,
+    "meme_prob": 0.1,
+    "_说明": "把群号换成你的"
+  }
+}
